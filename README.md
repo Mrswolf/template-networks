@@ -1,2 +1,2 @@
-# template-newtorks
-template neworks for decoding SSVEPs
+# template-networks
+template networks for decoding SSVEPs

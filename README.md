@@ -54,6 +54,21 @@ Run notebook [results](./results.ipynb) to collect figures for this paper.
 
 If you find the code useful, please cite this paper:
 
+@article{Xiao_2022,
+doi = {10.1088/1741-2552/ac9861},
+url = {https://dx.doi.org/10.1088/1741-2552/ac9861},
+year = {2022},
+month = {nov},
+publisher = {IOP Publishing},
+volume = {19},
+number = {5},
+pages = {056049},
+author = {Xiaolin Xiao and Lichao Xu and Jin Yue and Baizhou Pan and Minpeng Xu and Dong Ming},
+title = {Fixed template network and dynamic template network: novel network designs for decoding steady-state visual evoked potentials},
+journal = {Journal of Neural Engineering}
+}
+
+
 ## Contact
 
 If you have any questions, please feel free to contact me.
